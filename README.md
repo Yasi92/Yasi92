@@ -4,7 +4,7 @@ I am a passionate full-stack developer gradueted with Code-institute and a hardw
 I engage with the community through Slack, open-source projects and hackathons.
 
 ## About me
----
+
 
 - 👩‍💻 I’m currently working on a collaborative project.
 - 👯 I’m looking to collaborate on open-source projects.
@@ -14,12 +14,12 @@ I engage with the community through Slack, open-source projects and hackathons.
 
 
 ## 📫 How to reach me:
----
+
 📩: Beigi.yasaman1992@gmail.com
 
 ## My Tech Skills
----
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width=50 alt="Python">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/djangoproject.svg" width=50 alt="Django">
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=50 alt="JavaScript">
@@ -35,3 +35,4 @@ I engage with the community through Slack, open-source projects and hackathons.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=50 alt="AWS">
 <img src="images/materialize.png" width=50 alt="Materialize">
 <img src="images/stripe.png" width=50 alt="Stripe">
+</p>
